@@ -1,0 +1,23 @@
+{
+  "name": "typescript-infinite-slider",
+  "version": "1.0.0",
+  "description": "A smooth, infinite, touch-friendly slider component for React built with TypeScript and Tailwind CSS",
+  "main": "TechnologiesSlider.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "slider",
+    "carousel",
+    "infinite",
+    "typescript",
+    "tailwind"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
